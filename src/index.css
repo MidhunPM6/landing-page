@@ -1,0 +1,4 @@
+@import "tailwindcss";
+@theme {
+  --color-light-lime: #B9FF66;
+}
